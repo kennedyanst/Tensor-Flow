@@ -1,2 +1,2 @@
-# Tensor-Flow
- Scripts do meu aprendizado sobre o Tensor Flow
+# TensorFlow
+ Scripts do meu aprendizado sobre o TensorFlow
